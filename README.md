@@ -2,16 +2,16 @@
 
 ## <a id="sumario">Sumário</a>
 
-- [Fundamentos](#fundamentos)
-  - [1. Seletores](#seletores)
-  - [2. Seletores combinados](#seletores-combinados)
-  - [3. Dimensionamento e espaçamento](#dimensionamento-e-espacamento)
+- [1. Fundamentos](#fundamentos)
+  - [1.1. Seletores](#seletores)
+  - [1.2. Seletores combinados](#seletores-combinados)
+  - [1.3. Dimensionamento e espaçamento](#dimensionamento-e-espacamento)
 
-- [Complementar](#complementar)
+- [2. Complementar](#complementar)
 
-## <a id="fundamentos">Fundamentos</a> [[sumário]](#sumario)
+## <a id="fundamentos">1. Fundamentos</a> [[sumário]](#sumario)
 
-### <a id="seletores">1. Seletores</a>
+### <a id="seletores">1.1. Seletores</a>
 
 Tipo | Modelo
 :-: | ---
@@ -24,7 +24,7 @@ Atributo com valor | [atributo="valor"] {}
 
 [Complementar: seletores por atributo](#seletores-por-atributo)
 
-## <a id="seletores-combinados">2. Seletores combinados</a>
+### <a id="seletores-combinados">1.2. Seletores combinados</a>
 
 Tipo | Modelo
 :---: | ---
@@ -37,7 +37,7 @@ Irmão geral | h2 ~ p {}
 
 [Complementar: combinadores](#combinadores)
 
-## <a id="dimensionamento-e-espacamento">3. Dimensionamento e espaçamento</a>
+### <a id="dimensionamento-e-espacamento">1.3. Dimensionamento e espaçamento</a>
 
 Propriedades:
 
@@ -49,7 +49,7 @@ Propriedades:
 - `padding` (`shorthand`)
 - `box-sizing`
 
-Obs.: `shorthand` é uma forma abreviada
+Obs.: `shorthand` é uma forma abreviada de escrever várias outras propriedades.
 
 Outras:
 
@@ -70,7 +70,7 @@ Regra das `shorthands` de espaçamento (`margin` e `padding`):
 
 
 
-## <a id="complementar">Complementar</a>
+## <a id="complementar">2. Complementar</a>
 
 ### <a id="seletores-por-atributo">Seletores por atributo</a>
 
